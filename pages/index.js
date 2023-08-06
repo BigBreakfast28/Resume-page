@@ -2,7 +2,7 @@ import Nav from "@/componets/Nav";
 
 export default function Home() {
   return (
-    <div className='bg-blue-800 w-screen h-screen flex items-center text-white'>
+    <div className='bg-pink-900 w-screen h-screen items-center flex text-white '>
       <Nav />
     </div>
   )
