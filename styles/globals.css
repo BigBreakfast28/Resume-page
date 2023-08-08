@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+p {
+  text-align: center;
+}
+ 
+flex-container {
+  display: flex;
+}
