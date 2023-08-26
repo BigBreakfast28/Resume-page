@@ -15,7 +15,10 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
+h1 {
+  font-style: serif;
+  font-size:75px;
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
@@ -28,8 +31,17 @@ body {
 
 p {
   text-align: center;
+  margin: 50px;
+  margin-left: 50px;
+  padding: 50px;
+  display:block;
+  
 }
  
-flex-container {
+.flex-container {
   display: flex;
+  background-color:brown;
+  
 }
+
+

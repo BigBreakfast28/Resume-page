@@ -2,12 +2,12 @@ import Link from "next/link"
 
 export default function Nav() {
     return(
-           <main class="flex-container">d 
+           <main>
             <h1>Weclome to my Resume page</h1>
                 <p>
                     <Link href={'/'}>Education</Link>
                 </p>
-                    
+                
                 <p>
                     <Link href={'/'}>Work Experience</Link>
                 </p>
@@ -22,4 +22,4 @@ export default function Nav() {
            </main>
         
     )
-}C
+}
