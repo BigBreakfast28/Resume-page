@@ -1,8 +1,8 @@
 import Home from "@/pages";
 
 export default function WorkExperience() {
-    <Home>Testing</Home>
+    <Home>Work Experience</Home>
     return(
-        <h1></h1>
+        <h1>Testing</h1>
     )
 }

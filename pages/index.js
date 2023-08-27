@@ -20,11 +20,11 @@ export default function Home() {
             Work Experience
           </Link>
 
-          <Link href={'/componets/LearnedTechnologies'} className="p-4">
-            Learned technologies
+          <Link href={'/LearnedTechnologies'} className="p-4">
+            Learned Technologies
           </Link>
 
-          <Link href={'/componets/Background'} className="p-4">
+          <Link href={'/Background'} className="p-4">
             Background
           </Link>
         </div>
