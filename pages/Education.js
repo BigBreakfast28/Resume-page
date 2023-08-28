@@ -6,6 +6,18 @@ export default function Education () {
       <> 
          <div className="bg-yellow-600 h-screen">
             <h1 className="items-center text-center ">Education History</h1>
+               <div class="nav-bar">
+                  <a href="">Home</a>
+                  <a href="">Education</a>
+                  <a href="">Work Experience</a>
+                  <a href="">Learned Technologies</a>
+                  <a href="">Background</a>
+               </div>
+
+
+
+
+
                <h2 className="items-center text-center p-20">
                   Rich East Highschool- Graduated 2014
                </h2>
