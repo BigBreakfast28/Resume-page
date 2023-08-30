@@ -15,7 +15,11 @@ export default function WorkExperience() {
 
                 </div>
     
-            <h2>Testing</h2>
+            <h2 className="text-white">Sto Corp: Research&Development Chemist- December 2022 until present</h2>
+                <div className="text-white text-center">Cementitious product formulation</div>
+                <div className="text-white text-center">SAP Logon navigation/data input-LIMS System</div>
+                <div className="text-white text-center">Revision of formulated products for imporvement (cost, strength, ect.)</div>
+
     
         </div>
     </>
