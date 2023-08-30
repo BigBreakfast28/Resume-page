@@ -18,7 +18,7 @@ p {
 }
 
 .nav-bar {
-  background-color: brown;
+  background-color: green;
   overflow: hidden;
 }
  
@@ -41,3 +41,12 @@ p {
   color: white;
 }
 
+h2 {
+  font-size:40px;
+  font-style:serif;
+  padding:8px;
+  text-align: center;
+  padding: 20px;
+  
+  
+}

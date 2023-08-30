@@ -18,11 +18,11 @@ export default function Education () {
 
 
 
-               <h2 className="items-center text-center p-20">
+               <h2>
                   Rich East Highschool- Graduated 2014
                </h2>
 
-               <h2 className="items-center text-center p-1 ">
+               <h2>
                   Southern Illinois University Edwardsville: Graduated 2020
                   Bachelors of Science in Chemistry
                </h2>
