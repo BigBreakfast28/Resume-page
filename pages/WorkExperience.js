@@ -33,8 +33,15 @@ export default function WorkExperience() {
                     manufacturer
                 </div>
                 
-
-    
+                <h2 className="text-white">Anheuser Busch: Analyst-September 2020 through May 2021</h2>
+                    <div>
+                        Quality control department with unfinished and finished product samples. Analysis consisted of
+                        sample preparation, instrumentation, data entry, and clean up. 
+                    </div>
+                    <div>
+                        Sample preparation includes weighing out samples, filtering/centrifuging samples, placing
+                        samples in a bath overnight, mobile phase preparation, and standard curve preparation.  
+                    </div>
         </div>
     </>
     )
