@@ -24,6 +24,10 @@ export default function LearnedTechnologies() {
                 <h2 className="text-white">Tailwind</h2>
                 <h2 className="text-white">Typescript</h2>
                 <h2 className="text-white">CSS</h2>
+
+                <div class="footer">
+                    <p>Contact me at Deancameron99@gmail.com</p>
+                </div>
             </div>
         </>    
     )
