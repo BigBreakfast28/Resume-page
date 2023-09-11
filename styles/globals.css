@@ -51,11 +51,20 @@ h2 {
 }
 
 .footer {
-  position: fixed;
+  position: sticky;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
+  height: auto;
+  background-color: rgb(74, 59, 101);
   color: white;
   text-align: center;
+}
+
+.contact-me {
+
+}
+
+.contact-me a:hover {
+  
 }

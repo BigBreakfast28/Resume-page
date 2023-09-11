@@ -28,6 +28,10 @@ export default function Background() {
                         I find it hard to be bored of something that is seemingly never ending. 
                     </p>
 
+                    <div class="footer">
+                        <p>Contact me <a href="mailto:cdean0917@gmail.com" class="a">Here</a></p>
+                    </div>
+
             
             
         </>
