@@ -5,7 +5,7 @@ export default function WorkExperience() {
     return(
     <>
         <div className="bg-red-900 h-screen w-screen">
-            <h1 className="text-center items-center">Work Experience</h1>
+            <h1 className="text-center items-center text-white">Work Experience</h1>
                 <div class="nav-bar">
                 <a href="/">Home</a>
                   <a href="/Education">Education</a>
@@ -34,11 +34,11 @@ export default function WorkExperience() {
                 </div>
                 
                 <h2 className="text-white">Anheuser Busch: Analyst-September 2020 through May 2021</h2>
-                    <div>
+                    <div className="text-white text-center">
                         Quality control department with unfinished and finished product samples. Analysis consisted of
                         sample preparation, instrumentation, data entry, and clean up. 
                     </div>
-                    <div>
+                    <div className="text-white text-center">
                         Sample preparation includes weighing out samples, filtering/centrifuging samples, placing
                         samples in a bath overnight, mobile phase preparation, and standard curve preparation.  
                     </div>
