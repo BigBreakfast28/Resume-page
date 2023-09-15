@@ -61,9 +61,13 @@ h2 {
 }
 
 .contact-me {
-
+  background-color:white;
+  overflow: hidden;
 }
+.contact-me a:visted {
+color:purple;
+} 
 
 .contact-me a:hover {
-  
+color:blue;
 }
