@@ -1,4 +1,5 @@
 import Home from "@/pages";
+import Link from "next/link";
 
 export default function Background() {
     <Home>Background Page</Home>
@@ -7,11 +8,11 @@ export default function Background() {
             <h1 className="text-center">Background Information</h1>
 
                 <div class="nav-bar">
-                        <a href="/">Home</a>
-                        <a href="/Education">Education</a>
-                        <a href="/WorkExperience">Work Experience</a>
-                        <a href="/LearnedTechnologies">Learned Technologies</a>
-                        <a href="/Background">Background</a>
+                        <Link href="/">Home</Link>
+                        <Link href="/Education">Education</Link>
+                        <Link href="/WorkExperience">Work Experience</Link>
+                        <Link href="/LearnedTechnologies">Learned Technologies</Link>
+                        <Link href="/Background">Background</Link>
                 </div>
 
                 <h2>Greetings</h2>

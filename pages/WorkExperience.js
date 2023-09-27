@@ -1,4 +1,5 @@
 import Home from "@/pages";
+import Link from "next/link";
 
 export default function WorkExperience() {
     <Home>Work Experience</Home>
@@ -7,11 +8,11 @@ export default function WorkExperience() {
         <div className="bg-red-900 h-screen w-screen">
             <h1 className="text-center items-center text-white">Work Experience</h1>
                 <div class="nav-bar">
-                <a href="/">Home</a>
-                  <a href="/Education">Education</a>
-                  <a href="/WorkExperience">Work Experience</a>
-                  <a href="/LearnedTechnologies">Learned Technologies</a>
-                  <a href="/Background">Background</a>
+                    <Link href="/">Home</Link>
+                    <Link href="/Education">Education</Link>
+                    <Link href="/WorkExperience">Work Experience</Link>
+                    <Link href="/LearnedTechnologies">Learned Technologies</Link>
+                    <Link href="/Background">Background</Link>
 
                 </div>
     
