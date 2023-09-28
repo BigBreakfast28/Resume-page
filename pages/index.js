@@ -15,7 +15,7 @@ export default function Home() {
 
         
           <div className="w-screen h-screen flex items-center text-white">
-            <div className=" text-center w-full">
+            <div className="text-center w-full">
               <Link href={'/Education'} className="p-4">
                     Education
                 </Link>
