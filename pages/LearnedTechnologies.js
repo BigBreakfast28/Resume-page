@@ -5,7 +5,7 @@ export default function LearnedTechnologies() {
     <Home>Technologies Page </Home>
     return(
         <>
-            <div className="bg-blue-900 ">
+            <div className="bg-blue-900 h-screen">
                 <h1 className="text-white text-center">Learned Technologies</h1>
 
                 <div class="nav-bar">
